@@ -1,5 +1,5 @@
-### Hi there 👋
-
+###  Hello, I'm Hyejin. 
+<a href="https://hjqueeen.github.io/portfolio/" target="_blank">Do you want to know me? click! 👈🏻</a>
 <!--
 **hjqueeen/hjqueeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
