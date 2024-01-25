@@ -1,5 +1,8 @@
 ###  Hello, I'm Hyejin. 
 <a href="https://hjqueeen.github.io/portfolio/" target="_blank">Do you want to know me? click! 👈🏻</a>
+
+#### 🌱 what i lerned
+[Data Structures and Algorithms in C](https://github.com/hjqueeen/c_datastructer_algorithm)
 <!--
 **hjqueeen/hjqueeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
